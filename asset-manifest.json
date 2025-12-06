@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robotok/static/css/main.ec9d2a5f.css",
-    "main.js": "/robotok/static/js/main.6e190552.js",
-    "static/js/453.f63c4656.chunk.js": "/robotok/static/js/453.f63c4656.chunk.js",
-    "index.html": "/robotok/index.html",
-    "main.ec9d2a5f.css.map": "/robotok/static/css/main.ec9d2a5f.css.map",
-    "main.6e190552.js.map": "/robotok/static/js/main.6e190552.js.map",
-    "453.f63c4656.chunk.js.map": "/robotok/static/js/453.f63c4656.chunk.js.map"
+    "main.css": "/a239-robotok/static/css/main.ec9d2a5f.css",
+    "main.js": "/a239-robotok/static/js/main.70121e51.js",
+    "static/js/453.f63c4656.chunk.js": "/a239-robotok/static/js/453.f63c4656.chunk.js",
+    "index.html": "/a239-robotok/index.html",
+    "main.ec9d2a5f.css.map": "/a239-robotok/static/css/main.ec9d2a5f.css.map",
+    "main.70121e51.js.map": "/a239-robotok/static/js/main.70121e51.js.map",
+    "453.f63c4656.chunk.js.map": "/a239-robotok/static/js/453.f63c4656.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9d2a5f.css",
-    "static/js/main.6e190552.js"
+    "static/js/main.70121e51.js"
   ]
 }
