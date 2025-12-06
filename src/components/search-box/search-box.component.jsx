@@ -1,10 +1,10 @@
 import './search-box.styles.css';
 
-export const SearchBox = props => (
+export const SearchBox = ({ onSearchChange }) => (
   <input
     className='search-box'
     type='search'
     placeholder='search monsters'
-    onChange={props.onSearchChange}
+    onChange={onSearchChange}
   />
 );
